@@ -33,9 +33,10 @@ Get started with our application in just a few steps:
 1. Clone the repository: `git clone https://github.com/your-username/Building-Height-Estimation-using-Monocular-Remote-Sensing-Imagery.git`
 2. Install necessary dependencies: Refer to the README or script files for required packages.
 3. Download the pre-trained model and place it in the project's root directory.
-4. Run the notebook file: `building-height-estimation.ipynb`
-5. Download the provided model file  'Building-height-estimation-model.h5' as well as any satellite image of which you require the result
-6. Change the paths of model and input image with actual paths on your local machine and run the code block
+4. Download the model (from https://drive.google.com/file/d/1lkQAsdVjw1vGsuzKnKwPCkzwciGSUEYu/view?usp=sharing)
+5. Run the notebook file: `building-height-estimation.ipynb`
+6. Download the provided model file  'Building-height-estimation-model.h5' as well as any satellite image of which you require the result
+7. Change the paths of model and input image with actual paths on your local machine and run the code block
 
 
 ## Results
